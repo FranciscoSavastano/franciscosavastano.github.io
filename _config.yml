@@ -8,7 +8,12 @@ description:
   <a href="www.linkedin.com/in/francisco-savastano-cazati-pereira-78460324a">De uma olhada no meu perfil do linkedin!</a>
   <br><br>
   Contato -> fransavastanocp@gmail.com 
-  
+  <div>
+  <a href="www.linkedin.com/in/francisco-savastano-cazati-pereira-78460324a">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=FranciscoSavastano&show_icons=true&theme=onedark&include_all_commits=true&count_private-true"/>
+  <img height="110em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoSavastano&layout=compact&langs_count=16&theme=onedark"/>
+  </div>
+
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
