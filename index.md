@@ -4,32 +4,19 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Website basico de uma loja de produtos naturais](https://github.com/FranciscoSavastano/WebSite-Amigo-Urso)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Calculadora de CDBs, LCIs e LCAs com inteface grafica TKinter](https://github.com/FranciscoSavastano/Calculadora-de-CDBs-LCIs-e-LCAs)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Jogo estilo "Shoot em up" feito em Unity(C#)](http://example.com/](https://github.com/FranciscoSavastano/Galaxy-shooter)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
----
-
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
-
 
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+<p style="font-size:11px">Template de pagina forkeado de <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
