@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Projetos
 
 [Website basico de uma loja de produtos naturais](https://github.com/FranciscoSavastano/WebSite-Amigo-Urso)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
