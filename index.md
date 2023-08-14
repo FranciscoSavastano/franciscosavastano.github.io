@@ -12,7 +12,7 @@
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Jogo estilo "Shoot em up" feito em Unity(C#)](http://example.com/](https://github.com/FranciscoSavastano/Galaxy-shooter)
+[Jogo estilo "Shoot em up" feito em Unity(C#)](https://github.com/FranciscoSavastano/Galaxy-shooter)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 
